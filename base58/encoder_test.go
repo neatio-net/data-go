@@ -3,8 +3,8 @@ package base58_test
 import (
 	"testing"
 
-	data "github.com/neatlib/data-go"
-	"github.com/neatlib/data-go/base58"
+	data "github.com/neatio-net/data-go"
+	"github.com/neatio-net/data-go/base58"
 	"github.com/stretchr/testify/assert"
 )
 

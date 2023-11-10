@@ -3,7 +3,7 @@ package data_test
 import (
 	"testing"
 
-	wire "github.com/neatlib/wire-go"
+	wire "github.com/neatio-net/wire-go"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

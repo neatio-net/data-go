@@ -3,7 +3,7 @@ package data_test
 import (
 	"testing"
 
-	data "github.com/neatlib/data-go"
+	data "github.com/neatio-net/data-go"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

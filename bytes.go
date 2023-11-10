@@ -15,7 +15,7 @@ import (
 //
 // In addition to these implementation, you can also find
 // BTCEncoder and FlickrEncoder that use base58 variants in
-// github.com/neatlib/data-go/base58
+// github.com/neatio-net/data-go/base58
 var (
 	Encoder       ByteEncoder = hexEncoder{}
 	HexEncoder                = hexEncoder{}

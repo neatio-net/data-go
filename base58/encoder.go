@@ -3,7 +3,7 @@ package base58
 import (
 	"encoding/json"
 
-	data "github.com/neatlib/data-go"
+	data "github.com/neatio-net/data-go"
 	"github.com/pkg/errors"
 )
 
